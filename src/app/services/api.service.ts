@@ -19,7 +19,7 @@ export class ApiService {
     withCredentials?: boolean,
   };
 
-  appBaseURL = config.APIBaseUrl;
+  appBaseURL = '';
 
   getLookups(lookups: any[], token: string) {
     const httpOptions = {

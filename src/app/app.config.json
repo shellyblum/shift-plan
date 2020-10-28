@@ -1,5 +1,4 @@
 {
-  "APIBaseUrl": "http://10.100.102.220/api",
   "NPCLookupName": "work_shift_npc",
   "divisionLookupName": "work_shift_division",
   "purposeLookupName": "work_shift_purpose",
