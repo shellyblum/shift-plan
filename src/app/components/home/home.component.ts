@@ -87,6 +87,7 @@ export class HomeComponent implements OnInit {
     //   });
     this.divisions = config.divisionDropdown;
     this.purposes = config.purposesDropdown;
+    this.ranks = config.rankDropdown;
     this.buildForms();
     localStorage.getItem('authentication') === 'true' ? this.auth = true : this.auth = false;
     this.unauthorizedNavigation();

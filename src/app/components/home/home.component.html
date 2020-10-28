@@ -401,7 +401,7 @@
                   <label class="headingFinal required ownHeading">Rank </label>
                   <select class="browser-default" formControlName="rank">
                     <option [ngValue]="null" disabled selected>Rank</option>
-                    <option *ngFor="let r of ranks; let i= index" [ngValue]="r">{{r.Value}}</option>
+                    <option *ngFor="let r of ranks; let i= index" [ngValue]="r">{{r}}</option>
                   </select>
                 </div>
               </div>

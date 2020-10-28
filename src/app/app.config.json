@@ -6,5 +6,6 @@
   "rankLookupName": "work_shift_rank",
   "shiftDMID": 176,
   "divisionDropdown": ["Division 1", "Division 2", "Division 3", "Division 4", "Division 5"],
-  "purposesDropdown": ["Purpose 1", "Purpose 2", "Purpose 3", "Purpose 4", "Purpose 5"]
+  "purposesDropdown": ["Purpose 1", "Purpose 2", "Purpose 3", "Purpose 4", "Purpose 5"],
+  "rankDropdown": ["Rank 1", "Rank 2", "Rank 3"]
 }
