@@ -1,0 +1,10 @@
+{
+  "APIBaseUrl": "http://10.100.102.220/api",
+  "NPCLookupName": "work_shift_npc",
+  "divisionLookupName": "work_shift_division",
+  "purposeLookupName": "work_shift_purpose",
+  "rankLookupName": "work_shift_rank",
+  "shiftDMID": 176,
+  "divisionDropdown": ["Division 1", "Division 2", "Division 3", "Division 4", "Division 5"],
+  "purposesDropdown": ["Purpose 1", "Purpose 2", "Purpose 3", "Purpose 4", "Purpose 5"]
+}

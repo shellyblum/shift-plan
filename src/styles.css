@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { background-color:#31393c; margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.mat-form-field {
+    margin-right: 8px;
+  }
+
+  .mat-snack-bar-container{
+    background-color: #3ab57d;
+  }
+
